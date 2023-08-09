@@ -1,4 +1,4 @@
-Exercícios Laço de Repetição
+--Exercícios Laço de Repetição
 
 1. Faça um programa em JavaScript que some todos os números inseridos pelo usuário até que ele digite -1.
 
