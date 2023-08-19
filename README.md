@@ -1,5 +1,5 @@
---Exercícios Laço de Repetição
-
+Exercícios
+--
 1. Faça um programa em JavaScript que some todos os números inseridos pelo usuário até que ele digite -1.
 
 2. Faça um código JavaScript que leia 2 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números ímpares entre eles.
@@ -11,7 +11,3 @@
 - A média dos números digitados 
 - O maior número digitado 
 - O menor número digitado
-- Exibir todos os números ímpares
-- A quantidade números pares e números ímpares
-- Exibir todos os números primos
-- Se a soma de todos os números resulta em um número primo.
