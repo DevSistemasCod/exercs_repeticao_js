@@ -15,9 +15,4 @@ dica:. utilize um while para aceitar notas até que uma nota inválida seja inse
 obs:. estude o método include() para verificar a existência das vogais na frase.
 
 7. Exiba um triângulo de asteriscos no console. O número de linhas do triângulo deve ser fornecido pelo usuário.
-obs:. estude o método repeat() para criação da nova String
-Exemplo: se o usuário digitou 4, então teremos 4 linhas da seguinte forma:
-*
-**
-***
-****
+obs:. estude o método repeat() para criação da nova String.
